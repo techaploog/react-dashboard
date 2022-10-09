@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# My Learning : React Dashboard
+
+from YouTube : JavaScrip Matery
+https://www.youtube.com/watch?v=jx5hdo50a2M&t=737s
+
+original git repository by : adrianhajdin
+https://github.com/adrianhajdin/project_syncfusion_dashboard
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
