@@ -10,7 +10,10 @@ const Line = () => {
       bg-white dark:bg-secondary-dark-bg
       rounded-3xl'
     >
-      <Header category="Chart" title="Inflation" />
+      <Header category="Chart" title="Inflation Rate" />
+      <div className='w-full'>
+        <LineChart />
+      </div>
     </div>
   )
 }
